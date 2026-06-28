@@ -1,5 +1,5 @@
 # Algorithmic Challenges & Data Structures
-Unfortunately I no longer have access to exact tasks. In the list below, you can find approximately, what each task tries to solve.
+Unfortunately, I no longer have access to the exact tasks. In the list below, you can find approximately what each task tries to solve.
 
 ## 1. Unique K-Permutations (Anagram)
 ### Problem
